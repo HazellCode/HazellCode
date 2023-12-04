@@ -3,7 +3,7 @@
 I program stuff.
 
 I'm currently in my third year of studying BSc in Audio and Music Technology at ARU.
-But I'm looking towards a Career in Cyber Security after untaking relivant certifications
+But I'm looking towards a Career in Cyber Security after untaking relevant certifications
 
 Bye
 
