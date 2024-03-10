@@ -1,4 +1,4 @@
-### Henlo 👋
+### Henlo 👋 (they/them)
 
 I program stuff.
 
