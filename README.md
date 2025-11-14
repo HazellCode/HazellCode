@@ -1,12 +1,10 @@
-### Henlo 👋 
+### Damn 🗿
 
 I program stuff.
 
-I've finally finished uni (Audio and Music Technology) 🎉🎉🎉🎉🎉
-I got a First (no i won't stop talking about that)
+MATLAB is cool, block diagrams are nice
 
-
-I've mostly only got Python and MATLAB (uni) stuff on here atm but that will change as the year goes on.
+I've mostly only got Python and MATLAB (uni) stuff on here atm but once i finally stop procrastinating learning C++(JUCE) there will be more
 
 Bye
 
