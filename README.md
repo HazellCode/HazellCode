@@ -1,12 +1,12 @@
-### Damn 🗿
+### Hii
 
-I program stuff.
+I'm programming Audio Plugins now - they will be very cool
 
-MATLAB is cool, block diagrams are nice
+* PARTICULATE * (the first one) will be available soon™️
+If you want a sneak peak -> https://jlyfshaudio.com/particulate :)
 
-I've mostly only got Python and MATLAB (uni) stuff on here atm but once i finally stop procrastinating learning C++(JUCE) there will be more
+See ya!
 
-Bye
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HazellCode&theme=radical)](https://github.com/anuraghazra/github-readme-stats)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HazellCode&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
